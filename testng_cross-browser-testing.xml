@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="OpenCart Test Suite">
+
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test name="Edge Tests">
+        <parameter name="OS" value="Windows 11"/>
+        <parameter name="browser" value="Microsoft Edge"/>
+
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest"/>
+        </classes>
+    </test>
+
+    <test  name="Chrome Tests">
+        <parameter name="OS" value="Windows 11"/>
+        <parameter name="browser" value="Google Chrome"/>
+
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest"/>
+        </classes>
+    </test>
+
+    <test name="Firefox Tests">
+        <parameter name="OS" value="Windows 11"/>
+        <parameter name="browser" value="Mozilla Firefox"/>
+
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest"/>
+        </classes>
+    </test>
+
+</suite>

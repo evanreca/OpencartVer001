@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="OpenCart Master Test Suite">
+
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    
+    <test thread-count="3" name="OpenCart Test Cases">
+        <parameter name="OS" value="Windows 11"/>
+        <parameter name="browser" value="Microsoft Edge"/>
+
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest"/>
+            <class name="testCases.TC002_LoginTest"/>
+<!--            <class name="testCases.TC003_LoginDDT"/>-->
+        </classes>
+    </test>
+
+</suite>
