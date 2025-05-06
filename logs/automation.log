@@ -868,3 +868,73 @@
 17:41:27.621 [main] INFO  testCases.TC001_AccountRegistrationTest - #### TC001_AccountRegistrationTest COMPLETE ####
 17:41:31.624 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
 17:41:33.395 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
+18:05:44.976 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\OpencartVer001\testng_grid-docker.xml"
+18:07:32.520 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\OpencartVer001\testng_grid-docker.xml"
+18:07:36.421 [main] INFO  testCases.TC001_AccountRegistrationTest - #### STARTING TC001_AccountRegistrationTest ####
+18:07:36.496 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MyAccount LINK
+18:07:37.130 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON Register LINK
+18:07:37.131 [main] INFO  testCases.TC001_AccountRegistrationTest - INPUTTING CUSTOMER REGISTRATION DETAILS...
+18:07:38.434 [main] INFO  testCases.TC001_AccountRegistrationTest - VALIDATING EXPECTED MESSAGE...
+18:07:38.458 [main] INFO  testCases.TC001_AccountRegistrationTest - #### TC001_AccountRegistrationTest COMPLETE ####
+18:07:41.437 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
+18:07:42.905 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
+18:07:48.030 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
+18:07:49.590 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
+18:07:53.355 [main] INFO  testCases.TC001_AccountRegistrationTest - #### STARTING TC001_AccountRegistrationTest ####
+18:07:53.414 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MyAccount LINK
+18:07:54.065 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON Register LINK
+18:07:54.065 [main] INFO  testCases.TC001_AccountRegistrationTest - INPUTTING CUSTOMER REGISTRATION DETAILS...
+18:07:55.297 [main] INFO  testCases.TC001_AccountRegistrationTest - VALIDATING EXPECTED MESSAGE...
+18:07:55.316 [main] INFO  testCases.TC001_AccountRegistrationTest - #### TC001_AccountRegistrationTest COMPLETE ####
+18:07:59.255 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
+18:08:00.736 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
+18:09:01.151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\OpencartVer001\testng_grid-docker.xml"
+18:09:05.211 [main] INFO  testCases.TC001_AccountRegistrationTest - #### STARTING TC001_AccountRegistrationTest ####
+18:09:05.276 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MyAccount LINK
+18:09:05.934 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON Register LINK
+18:09:05.935 [main] INFO  testCases.TC001_AccountRegistrationTest - INPUTTING CUSTOMER REGISTRATION DETAILS...
+18:09:07.257 [main] INFO  testCases.TC001_AccountRegistrationTest - VALIDATING EXPECTED MESSAGE...
+18:09:07.283 [main] INFO  testCases.TC001_AccountRegistrationTest - #### TC001_AccountRegistrationTest COMPLETE ####
+18:09:10.410 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
+18:09:11.895 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
+18:09:16.783 [main] INFO  testCases.TC001_AccountRegistrationTest - #### STARTING TC001_AccountRegistrationTest ####
+18:09:17.014 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MyAccount LINK
+18:09:17.641 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON Register LINK
+18:09:17.641 [main] INFO  testCases.TC001_AccountRegistrationTest - INPUTTING CUSTOMER REGISTRATION DETAILS...
+18:09:18.904 [main] INFO  testCases.TC001_AccountRegistrationTest - VALIDATING EXPECTED MESSAGE...
+18:09:18.915 [main] INFO  testCases.TC001_AccountRegistrationTest - #### TC001_AccountRegistrationTest COMPLETE ####
+18:09:23.619 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
+18:09:25.149 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
+18:09:28.549 [main] INFO  testCases.TC001_AccountRegistrationTest - #### STARTING TC001_AccountRegistrationTest ####
+18:09:28.601 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MyAccount LINK
+18:09:29.217 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON Register LINK
+18:09:29.217 [main] INFO  testCases.TC001_AccountRegistrationTest - INPUTTING CUSTOMER REGISTRATION DETAILS...
+18:09:30.752 [main] INFO  testCases.TC001_AccountRegistrationTest - VALIDATING EXPECTED MESSAGE...
+18:09:30.769 [main] INFO  testCases.TC001_AccountRegistrationTest - #### TC001_AccountRegistrationTest COMPLETE ####
+18:09:34.692 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
+18:09:36.286 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
+18:18:00.715 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\OpencartVer001\testng_grid-docker.xml"
+18:18:04.076 [main] INFO  testCases.TC001_AccountRegistrationTest - #### STARTING TC001_AccountRegistrationTest ####
+18:18:04.170 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MyAccount LINK
+18:18:04.843 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON Register LINK
+18:18:04.845 [main] INFO  testCases.TC001_AccountRegistrationTest - INPUTTING CUSTOMER REGISTRATION DETAILS...
+18:18:06.387 [main] INFO  testCases.TC001_AccountRegistrationTest - VALIDATING EXPECTED MESSAGE...
+18:18:06.432 [main] INFO  testCases.TC001_AccountRegistrationTest - #### TC001_AccountRegistrationTest COMPLETE ####
+18:18:09.199 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
+18:18:10.959 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
+18:18:16.071 [main] INFO  testCases.TC001_AccountRegistrationTest - #### STARTING TC001_AccountRegistrationTest ####
+18:18:16.318 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MyAccount LINK
+18:18:16.997 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON Register LINK
+18:18:16.997 [main] INFO  testCases.TC001_AccountRegistrationTest - INPUTTING CUSTOMER REGISTRATION DETAILS...
+18:18:18.331 [main] INFO  testCases.TC001_AccountRegistrationTest - VALIDATING EXPECTED MESSAGE...
+18:18:18.352 [main] INFO  testCases.TC001_AccountRegistrationTest - #### TC001_AccountRegistrationTest COMPLETE ####
+18:18:22.869 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
+18:18:24.916 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
+18:18:29.098 [main] INFO  testCases.TC001_AccountRegistrationTest - #### STARTING TC001_AccountRegistrationTest ####
+18:18:29.181 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MyAccount LINK
+18:18:29.870 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON Register LINK
+18:18:29.870 [main] INFO  testCases.TC001_AccountRegistrationTest - INPUTTING CUSTOMER REGISTRATION DETAILS...
+18:18:31.368 [main] INFO  testCases.TC001_AccountRegistrationTest - VALIDATING EXPECTED MESSAGE...
+18:18:31.405 [main] INFO  testCases.TC001_AccountRegistrationTest - #### TC001_AccountRegistrationTest COMPLETE ####
+18:18:35.040 [main] INFO  testCases.TC002_LoginTest - ------- STARTING TC002_LoginTest -------
+18:18:36.692 [main] INFO  testCases.TC002_LoginTest - ------- TC002_LoginTest COMPLETE -------
