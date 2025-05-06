@@ -29,7 +29,7 @@
                     <version>3.5.3</version>
                     <configuration>
                         <suiteXmlFiles>
-                            <suiteXmlFile>testng_master.xml</suiteXmlFile>
+                            <suiteXmlFile>testng_grid-docker.xml</suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>
