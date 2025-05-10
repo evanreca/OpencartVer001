@@ -1,0 +1,17 @@
+# Default ignored files
+
+# IntelliJ files
+/shelf/
+/workspace.xml
+
+# Maven target directory
+/target/
+
+# ExtentReports target directory
+/reports/
+
+# TestNG output target directory
+/test-output/
+
+# screenshots of failed tests to not require version control
+/screenshots/
