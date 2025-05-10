@@ -12,3 +12,6 @@
 
 # TestNG output target directory
 /test-output/
+
+# screenshots of failed tests to not require version control
+/screenshots/
